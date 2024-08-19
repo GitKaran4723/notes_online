@@ -250,7 +250,9 @@
       "World Meteorological Organisation (WMO)",
       "WIPO"
     ],
-    "World Bank": [],
+    "World Bank": [
+						"World Bank"
+				],
     "International Monetary Fund (IMF)": [
       "IMF and Global Economy"
     ]
