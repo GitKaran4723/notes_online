@@ -1,0 +1,200 @@
+{
+    "Natural & Man-Made Disasters": {
+        "Types of Disasters": [
+            "Natural Disasters",
+            "Man-Made Disasters"
+        ],
+        "India’s Vulnerability Profile": [
+            "Geographical and Environmental Factors"
+        ],
+        "Earthquakes": [
+            "Seismic Zones in India",
+            "Impact and Response"
+        ],
+        "Tsunamis": [
+            "Causes and Effects",
+            "Indian Ocean Tsunami 2004"
+        ],
+        "Landslides": [
+            "Vulnerable Regions in India",
+            "Preventive Measures"
+        ],
+        "Flood": [
+            "Causes of Flooding",
+            "Major Flood Events in India"
+        ],
+        "Drought": [
+            "Drought Prone Areas",
+            "Impact on Agriculture"
+        ],
+        "Epidemics": [
+            "Past Epidemics in India",
+            "Government Response"
+        ],
+        "Nuclear Reactor Explosion": [
+            "Case Studies",
+            "Safety Measures"
+        ],
+        "Dam Collapse": [
+            "Causes and Consequences",
+            "Notable Incidents"
+        ],
+        "Gas Leakage": [
+            "Industrial Accidents",
+            "Bhopal Gas Tragedy"
+        ],
+        "Oil Spill": [
+            "Environmental Impact",
+            "Response Strategies"
+        ],
+        "Volcanic Eruption": [
+            "Volcanic Activity in India",
+            "Global Case Studies"
+        ],
+        "Forest Fires": [
+            "Causes and Impact",
+            "Recent Events"
+        ]
+    },
+    "Man-Made Disasters": {
+        "Chemical Spills": [
+            "Types of Chemicals Involved",
+            "Impact on Environment"
+        ],
+        "Hazardous Material Spills": [
+            "Response Protocols",
+            "Recent Incidents"
+        ],
+        "Explosives": [
+            "Types of Explosives",
+            "Safety and Management"
+        ],
+        "Chemical or Biological Attacks": [
+            "Preparedness and Response",
+            "Historical Instances"
+        ],
+        "Nuclear Blasts": [
+            "Impact and Mitigation",
+            "Global Case Studies"
+        ],
+        "Rail Accident, Airline Crash": [
+            "Causes of Accidents",
+            "Safety Measures"
+        ],
+        "Ground Water Poisoning": [
+            "Causes and Impact",
+            "Case Studies"
+        ]
+    },
+    "Disaster Management, Preparedness & Mitigation": {
+        "Management of Disasters": [
+            "Phases of Disaster Management",
+            "Government and Community Roles"
+        ],
+        "Community Management": [
+            "Community-Based Disaster Risk Reduction"
+        ],
+        "Government Initiatives to Tackle Disasters": [
+            "National Disaster Management Authority (NDMA)",
+            "State Disaster Management Authorities"
+        ],
+        "National Disaster Management Act, 2005": [
+            "Key Provisions and Framework"
+        ],
+        "Global Framework for Disaster Risk Reduction": [
+            "The Sendai Framework",
+            "UNDRR Initiatives"
+        ],
+        "Disaster Insurance": [
+            "Types of Insurance",
+            "Importance and Coverage"
+        ],
+        "Role of Media in Disaster Management": [
+            "Awareness and Communication",
+            "Media’s Role in Crisis Situations"
+        ],
+        "Gender Implications of Disasters": [
+            "Impact on Women and Vulnerable Groups",
+            "Gender-Sensitive Approaches"
+        ],
+        "Disaster Management Cycle": [
+            "Prevention, Mitigation, Preparedness, Response, Recovery"
+        ],
+        "Role of NGOs in Disaster Management": [
+            "Support and Relief Operations",
+            "Capacity Building"
+        ],
+        "Pre-Disaster Preparation": [
+            "Preparedness Plans",
+            "Training and Drills"
+        ],
+        "Update and Implementation of the National Disaster Management Plan (NDMP)": [
+            "Key Updates",
+            "Implementation Challenges"
+        ],
+        "Launch of the National Disaster Response Force (NDRF) App": [
+            "Features and Uses"
+        ],
+        "Improvements in the Early Warning Systems for Disasters": [
+            "Technological Advancements",
+            "Case Studies"
+        ],
+        "Use of Artificial Intelligence (AI) and Geographic Information Systems (GIS) in Disaster Prediction and Management": [
+            "Applications and Benefits"
+        ],
+        "Satellite-Based Monitoring for Natural Disasters": [
+            "Techniques and Tools",
+            "Impact on Response Time"
+        ],
+        "Role of Science and Technology in Disaster Management": [
+            "Innovative Solutions",
+            "Case Studies"
+        ],
+        "Pandemic Preparedness Fund": [
+            "Purpose and Utilization",
+            "Global Cooperation"
+        ],
+        "Disaster-Induced Displacement": [
+            "Impact on Communities",
+            "Response Strategies"
+        ],
+        "Urban Flood Management (to tackle frequent floods)": [
+            "Urban Planning and Drainage Systems",
+            "Case Studies"
+        ],
+        "Disaster Risk Financing (G20)": [
+            "Global Strategies",
+            "India’s Role"
+        ],
+        "India’s Increasing Climate Vulnerability Demands Urgent Disaster Preparedness": [
+            "Challenges and Strategies"
+        ],
+        "India Achieving Atmanirbharta in Disaster Management": [
+            "Self-Reliance in Disaster Response",
+            "Technological Innovations"
+        ],
+        "India’s Disaster Management Model through Turkiye’s Case Study": [
+            "Comparative Analysis",
+            "Lessons Learned"
+        ],
+        "India’s Disaster Management: Joshimath Crisis": [
+            "Background and Response",
+            "Lessons for Future"
+        ],
+        "Prime Minister’s Ten Point Agenda on Disaster Risk Reduction": [
+            "Key Points and Implementation"
+        ],
+        "The Sendai Framework For Disaster Risk Reduction": [
+            "India’s Commitment",
+            "Progress and Challenges"
+        ],
+        "Disaster Resilience- CDRI": [
+            "Coalition for Disaster Resilient Infrastructure (CDRI)",
+            "Global Partnerships"
+        ],
+        "National Policy on Disaster Management": [
+            "Policy Overview",
+            "Implementation and Challenges"
+        ]
+    }
+}
