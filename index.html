@@ -166,11 +166,12 @@
 </head>
 
 <body>
-    <h1>Placement Preparation Syllabus</h1>
+    <h1 id="subject_name"></h1>
     <div id="syllabus"></div>
     <script>
         document.addEventListener("DOMContentLoaded", async () => {
-            const subjectName = "Disaster_Management";
+            const subjectName = "International_Relations";
+            document.getElementById('subject_name').innerText = subjectName.replace('_',' ');
             try {
                 const response = await fetch(`https://raw.githubusercontent.com/GitKaran4723/notes_online/main/${subjectName}/syllabus.json`);
                 if (!response.ok) {
