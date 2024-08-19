@@ -11,6 +11,3 @@ The Non-Aligned Movement (NAM) is a significant international organization estab
 - **Neutrality:** Advocated for a neutral stance in the ideological conflict between the superpowers.
 - **Solidarity:** Focused on economic cooperation and mutual support among developing countries.
 - **Key Principles:** Non-interference in the internal affairs of member states, peaceful coexistence, and the right to determine their own foreign policy.
-
-
-
