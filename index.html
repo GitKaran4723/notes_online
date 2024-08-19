@@ -167,6 +167,8 @@
     <script>
         const placementSyllabus = fetch("/Disaster_Management/syllabus.json")
 
+        console.log(placementSyllabus);
+
         const syllabusContainer = document.getElementById('syllabus');
 
         Object.keys(placementSyllabus).forEach(section => {
