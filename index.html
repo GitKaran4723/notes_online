@@ -45,7 +45,7 @@
             display: flex;
             flex-direction: column;
             border-radius: 8px;
-            box-shadow: 0010pxrgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         h2 {
@@ -71,6 +71,10 @@
         }
 
         .collapsible:hover {
+            background-color: #003d80;
+        }
+
+        .collapsible.active {
             background-color: #003d80;
         }
 
@@ -165,83 +169,90 @@
     <h1>Placement Preparation Syllabus</h1>
     <div id="syllabus"></div>
     <script>
-        const placementSyllabus = fetch("/Disaster_Management/syllabus.json")
+        document.addEventListener("DOMContentLoaded", async () => {
+            try {
+                const response = await fetch("/Disaster_Management/syllabus.json");
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const placementSyllabus = await response.json();
 
-        console.log(placementSyllabus);
+                const syllabusContainer = document.getElementById('syllabus');
 
-        const syllabusContainer = document.getElementById('syllabus');
+                Object.keys(placementSyllabus).forEach(section => {
+                    const sectionHeader = document.createElement('h2');
+                    sectionHeader.textContent = section;
+                    syllabusContainer.appendChild(sectionHeader);
 
-        Object.keys(placementSyllabus).forEach(section => {
-            const sectionHeader = document.createElement('h2');
-            sectionHeader.textContent = section;
-            syllabusContainer.appendChild(sectionHeader);
+                    const subjectGroup = placementSyllabus[section];
 
-            placementSyllabus[section].forEach(subjectGroup => {
-                Object.keys(subjectGroup).forEach(subject => {
-                    const collapsibleButton = document.createElement('button');
-                    collapsibleButton.textContent = subject;
-                    collapsibleButton.className = 'collapsible';
-                    syllabusContainer.appendChild(collapsibleButton);
+                    Object.keys(subjectGroup).forEach(subject => {
+                        const collapsibleButton = document.createElement('button');
+                        collapsibleButton.textContent = subject;
+                        collapsibleButton.className = 'collapsible';
+                        syllabusContainer.appendChild(collapsibleButton);
 
-                    const contentDiv = document.createElement('div');
-                    contentDiv.className = 'content';
+                        const contentDiv = document.createElement('div');
+                        contentDiv.className = 'content';
 
-                    subjectGroup[subject].forEach(topic => {
-                        const topicButton = document.createElement('button');
-                        topicButton.textContent = topic;
-                        topicButton.className = 'topic-button';
+                        subjectGroup[subject].forEach(topic => {
+                            const topicButton = document.createElement('button');
+                            topicButton.textContent = topic;
+                            topicButton.className = 'topic-button';
 
-                        const noteContent = document.createElement('div');
-                        noteContent.className = 'note-content';
-                        noteContent.innerHTML = "Notes Coming Soon.";
+                            const noteContent = document.createElement('div');
+                            noteContent.className = 'note-content';
+                            noteContent.innerHTML = "Notes Coming Soon.";
 
-                        topicButton.addEventListener('click', () => {
-                            console.log(subject.replace(' ','_'),topic)
-                            // Close all other noteContent sections
-                            const allNoteContents = document.querySelectorAll('.note-content');
-                            allNoteContents.forEach(content => {
-                                if (content !== noteContent) {
-                                    content.style.display = 'none';
-                                }
+                            topicButton.addEventListener('click', () => {
+                                console.log(subject.replace(' ', '_'), topic)
+                                // Close all other noteContent sections
+                                const allNoteContents = document.querySelectorAll('.note-content');
+                                allNoteContents.forEach(content => {
+                                    if (content !== noteContent) {
+                                        content.style.display = 'none';
+                                    }
+                                });
+
+                                // Toggle the display of the clicked noteContent
+                                noteContent.style.display = noteContent.style.display === 'block' ? 'none' : 'block';
                             });
 
-                            // Toggle the display of the clicked noteContent
-                            noteContent.style.display = noteContent.style.display === 'block' ? 'none' : 'block';
+                            contentDiv.appendChild(topicButton);
+                            contentDiv.appendChild(noteContent);
                         });
 
-
-                        contentDiv.appendChild(topicButton);
-                        contentDiv.appendChild(noteContent);
+                        syllabusContainer.appendChild(contentDiv);
                     });
-
-                    syllabusContainer.appendChild(contentDiv);
                 });
-            });
+
+                document.querySelectorAll('.collapsible').forEach(button => {
+                    button.addEventListener('click', function () {
+                        // Get the currently active collapsible section
+                        const currentlyActive = document.querySelector('.collapsible.active');
+
+                        // If there is an active section and it's not the one that was clicked, close it
+                        if (currentlyActive && currentlyActive !== this) {
+                            currentlyActive.classList.remove('active');
+                            currentlyActive.nextElementSibling.style.display = "none";
+                        }
+
+                        // Toggle the clicked section
+                        this.classList.toggle('active');
+                        const content = this.nextElementSibling;
+                        if (this.classList.contains('active')) {
+                            content.style.display = "flex";
+                            content.style.flexDirection = "column";
+                        } else {
+                            content.style.display = "none";
+                        }
+                    });
+                });
+
+            } catch (error) {
+                console.error('Error fetching or processing data:', error);
+            }
         });
-
-        document.querySelectorAll('.collapsible').forEach(button => {
-            button.addEventListener('click', function () {
-                // Get the currently active collapsible section
-                const currentlyActive = document.querySelector('.collapsible.active');
-
-                // If there is an active section and it's not the one that was clicked, close it
-                if (currentlyActive && currentlyActive !== this) {
-                    currentlyActive.classList.remove('active');
-                    currentlyActive.nextElementSibling.style.display = "none";
-                }
-
-                // Toggle the clicked section
-                this.classList.toggle('active');
-                const content = this.nextElementSibling;
-                if (this.classList.contains('active')) {
-                    content.style.display = "flex";
-                    content.style.flexDirection = "column";
-                } else {
-                    content.style.display = "none";
-                }
-            });
-        });
-
     </script>
 </body>
 
