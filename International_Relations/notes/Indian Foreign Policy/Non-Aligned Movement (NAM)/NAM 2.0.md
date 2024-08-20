@@ -15,3 +15,5 @@
 
 - **NAM 1.0:** Originated during the Cold War, focusing on neutrality and support for decolonization. It aimed to provide a voice for non-aligned nations and promote their interests without aligning with superpowers.
 - **NAM 2.0:** Represents the modern evolution of the movement, adapting to new global realities, including economic globalization, terrorism, and climate change. It maintains its core principles but focuses on contemporary issues and challenges.
+
+[Read Full](https://www.drishtiias.com/daily-news-editorials/revival-of-non-alignment-movement)

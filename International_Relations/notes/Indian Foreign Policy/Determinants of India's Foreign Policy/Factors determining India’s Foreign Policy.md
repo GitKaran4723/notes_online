@@ -32,3 +32,5 @@ India's foreign policy is shaped by several determinants, with key factors being
 
 **Conclusion:**
 India's foreign policy is a complex interplay of historical, geographical, and strategic factors, influenced by both internal and external challenges. The country's approach has evolved over time, with a growing emphasis on economic interests, strategic autonomy, and global partnerships. While significant progress has been made, India continues to face challenges that require careful management of its resources and capabilities.
+
+[Read the full article](https://www.mea.gov.in/distinguished-lectures-detail.htm?632#:~:text=India's%20foreign%20policy%20is%20shaped,and%20regional%20challenges%3B%20and%20resources.)
