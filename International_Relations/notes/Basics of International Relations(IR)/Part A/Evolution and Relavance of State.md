@@ -26,3 +26,10 @@ ancient civilizations near water sources:
 | **Mesoamerica**  | Modern-day Mexico and Central America  | Lakes and rivers (e.g., Lake Texcoco) | Calendar system, architecture (pyramids)  | Tenochtitlan, Palenque|
 
 </div>
+
+<style>
+    table{
+        border: 1px black solid;
+    }
+
+</style>   
