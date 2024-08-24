@@ -13,6 +13,8 @@
 For example:
 ancient civilizations near water sources:
 
+<div style="overflow-x:auto;">
+
 | **Civilization**| **Location**| **Water Source**| **Key Contributions**| **Notable Cities**|
 |-----------------------|---------------------------------------------|-----------------------------------|------------------------------------------------------|---------------------------|
 | **Mesopotamia**  | Modern-day Iraq, Syria, Turkey    | Tigris and Euphrates Rivers  | Writing (cuneiform), the wheel, Code of Hammurabi    | Ur, Babylon, Nineveh  |
@@ -23,3 +25,4 @@ ancient civilizations near water sources:
 | **Ancient Rome** | Italian Peninsula (Italy)    | Tiber River, Mediterranean Sea| Engineering, law, architecture   | Rome, Pompeii    |
 | **Mesoamerica**  | Modern-day Mexico and Central America  | Lakes and rivers (e.g., Lake Texcoco) | Calendar system, architecture (pyramids)  | Tenochtitlan, Palenque|
 
+</div>
