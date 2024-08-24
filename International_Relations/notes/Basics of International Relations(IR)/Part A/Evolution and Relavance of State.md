@@ -13,7 +13,7 @@
 For example:
 ancient civilizations near water sources:
 
-<div style="overflow-x:auto; background: brown; color: white;">
+<div style="overflow-x:auto;">
 
 | **Civilization**| **Location**| **Water Source**| **Key Contributions**| **Notable Cities**|
 |-----------------------|---------------------------------------------|-----------------------------------|------------------------------------------------------|---------------------------|
@@ -24,12 +24,6 @@ ancient civilizations near water sources:
 | **Ancient Greece**    | Southern Europe (Greece)| Aegean Sea, various rivers    | Democracy, philosophy, the arts  | Athens, Sparta   |
 | **Ancient Rome** | Italian Peninsula (Italy)    | Tiber River, Mediterranean Sea| Engineering, law, architecture   | Rome, Pompeii    |
 | **Mesoamerica**  | Modern-day Mexico and Central America  | Lakes and rivers (e.g., Lake Texcoco) | Calendar system, architecture (pyramids)  | Tenochtitlan, Palenque|
-
 </div>
 
-<style>
-    table{
-        border: 1px black solid;
-    }
-
-</style>   
+ 
