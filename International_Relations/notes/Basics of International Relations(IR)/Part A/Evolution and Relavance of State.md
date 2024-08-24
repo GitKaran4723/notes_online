@@ -13,7 +13,7 @@
 For example:
 ancient civilizations near water sources:
 
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto; background: brown; color: white;">
 
 | **Civilization**| **Location**| **Water Source**| **Key Contributions**| **Notable Cities**|
 |-----------------------|---------------------------------------------|-----------------------------------|------------------------------------------------------|---------------------------|
