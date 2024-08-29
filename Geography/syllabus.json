@@ -1,0 +1,119 @@
+{
+    "General Geography":{
+        "The origin of the Earth":[
+            "Early Theories",
+            "Modern Theories – BBT",
+            "Star Formation",
+            "Formation of Planets",
+            "Solar System"
+        ],
+        "The Evolution of the Earth":[
+            "Layered Structure (5 layers)",
+            "Evolution of Lithosphere",
+            "Evolution of Atmosphere",
+            "Evolution of Hydrosphere"
+        ],
+        "Origin of Life":[],
+        "Geological History of the Earth":[
+            "Latitude and Longitude including important Parallels and Meridians",
+            "Motions of the Earth - Rotation, Revolution and their effects",
+            "Inclination of the Earth’s Axis and its effects",
+            "Local and Standard Time and the International Date Line, Calendar",
+            "Eclipses - Solar, Lunar"
+        ],
+        "Geological Time Scale":[
+
+        ]
+    },
+    "Geomorphology":{
+        "Interior of the Earth":[
+            "Sources of Information",
+            "Seismic waves",
+            "Internal Structure of earth"
+        ],
+        "Geology":[
+            "Minerals",
+            "Major Elements of the Earth’s Crust",
+            "Rocks (Aggregate of Minerals)",
+            "Petrology",
+            "Rocks & landforms",
+            "Rocks & Soils",
+            "3 Family of Rocks",
+            "Rock Cycle"
+        ],
+        "Earthquakes":[
+            "Waves: P, S, Body & Surface",
+            "Shadow Zone",
+            "Types of Earthquakes",
+            "Causes of Earthquake",
+            "Effects",
+            "Frequency",
+            "Locating an Epicentre",
+            "Distribution of Earthquake",
+            "Earthquake Observatories"
+        ],
+        "Volcano":[
+            "Types",
+            "Types of lava",
+            "Intrusive volcanic Landforms",
+            "Extrusive Volcanic Landforms",
+            "Geysers and Hot springs",
+            "Extinct, Dormant and Active volcanoes",
+            "Distribution of Volcanoes",
+            "Effects of Volcanoes"
+        ],
+        "Tsunami":[
+            "Mechanism of Tsunami waves",
+            "Properties of Tsunami waves",
+            "Effects of Tsunami"
+        ],
+        "Geomorphic Processes":[
+            "Earth’s Surface",
+            "Geomorphic Process",
+            "Exogenic Forces",
+            "Denudation Processes",
+            "Weathering",
+            "Mass movements",
+            "Erosion: Transportation & Deposition"
+        ],
+        "Distribution of Continents & Oceans":[
+            "Theories",
+            "Evidence in support of Continental Drift Theory",
+            "Continents – plate Tectonics"
+        ],
+        "Landforms and their Evolution":[
+            "Causes",
+            "Geomorphic Processes",
+            "Agents",
+            "Geomorphic Agents",
+            "Agents and their Impacts",
+            "Winds",
+            "Running Water",
+            "Ground Water",
+            "Glaciers",
+            "Waves and Currents",
+            "Weathering"
+        ],
+        "Landforms across the world":[
+            "Rivers and lakes"
+        ],
+        "Mountain & Peaks":[
+            "Fold Mountain",
+            "Block Mountain",
+            "Volcanic mountains"
+        ],
+        "Plateaus":[
+            "Plateau Formation process",
+            "Plateau Types",
+            "Economic significance of plateau",
+            "Major plateau of the world"
+        ]
+    },
+    "Climatology":{
+        "Composition of Atmosphere":[
+            "Gases",
+            "Water Vapour",
+            "Dust Particles"
+        ]
+    }
+}
