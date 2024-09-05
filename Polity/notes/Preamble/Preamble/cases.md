@@ -37,6 +37,7 @@
 
 These cases have directly dealt with the **status and importance of the Preamble**, particularly its role in interpreting the Constitution and its place in the **Basic Structure Doctrine**. The **Kesavananda Bharati** and **Minerva Mills** cases are especially significant in establishing the Preamble's constitutional value.
 
+---
 
 Mnemonic Remember the cases
 
