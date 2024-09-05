@@ -8,3 +8,4 @@ and to promote among them all
 
 **IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.**
 
+This is **pre-face** to the constitution and is based on **objective resolution(1946)** moved by ***Nehru*** in constituent assembly preamble contains **summary** of the constitution.
