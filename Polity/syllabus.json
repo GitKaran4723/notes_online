@@ -1,4 +1,31 @@
 {
+    "Schedules and Sources of Indian Constitution":{
+        "Schedules":[
+            "Schedule 1",
+            "Schedule 2",
+            "Schedule 3",
+            "Schedule 4",
+            "Schedule 5",
+            "Schedule 6",
+            "Schedule 7",
+            "Schedule 8",
+            "Schedule 9",
+            "Schedule 10",
+            "Schedule 11",
+            "Schedule 12"
+        ],
+        "Sources":[
+            "Government of India Act 1935",
+            "United Kingdom",
+            "USA",
+            "Australia",
+            "USSR",
+            "Weimer Constitution of Germany",
+            "Canada",
+            "South Africa",
+            "Ireland"
+        ]
+    },
     "Historical Evolution & Features":{
         "Importance of Constitution":[
             "Foundation of Government",
@@ -42,7 +69,8 @@
     },
     "Preamble":{
         "Preamble":[
-
+            "Preamble",
+            "Amendments"
         ],
         "Value premises of constitution":[
 
