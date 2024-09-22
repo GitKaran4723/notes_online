@@ -1,6 +1,6 @@
 {
-  "PYQs and Basics":{
-    "PYQ":[
+  "PYQs and Basics": {
+    "PYQ": [
       "2014",
       "2015",
       "2016",
@@ -13,29 +13,21 @@
       "2023",
       "2024"
     ],
-    "Part A":[
-      "Evolution and Relavance of State",
-      "Key tearms in IR"
-    ],
-    "Part B":[
+    "Part A": ["Evolution and Relavance of State", "Key tearms in IR"],
+    "Part B": [
       "IR till Rise of Europe",
       "IR till the onset of Cold war",
       "IR During the cold war",
       "IR after the cold war"
     ]
   },
-  
+
   "Indian Foreign Policy": {
     "Determinants of India's Foreign Policy": [
       "Factors determining India’s Foreign Policy"
     ],
-    "Non-Aligned Movement (NAM)": [
-      "NAM 1.0",
-      "NAM 2.0"
-    ],
-    "Panchsheel": [
-      "Five Principles of Peaceful Coexistence"
-    ],
+    "Non-Aligned Movement (NAM)": ["NAM 1.0", "NAM 2.0"],
+    "Panchsheel": ["Five Principles of Peaceful Coexistence"],
     "India’s Nuclear Doctrine": [
       "No First Use Policy",
       "Credible Minimum Deterrence"
@@ -44,12 +36,8 @@
       "Neighbourhood First Policy",
       "Gujral Doctrine"
     ],
-    "Look East Policy": [
-      "Act East Policy"
-    ],
-    "Look West Policy": [
-      "Act West Policy"
-    ]
+    "Look East Policy": ["Act East Policy"],
+    "Look West Policy": ["Act West Policy"]
   },
   "Indian Diaspora": {
     "Role played by Indian Diaspora": [
@@ -65,61 +53,53 @@
       "Indian Community Welfare Fund"
     ]
   },
-  "Bilateral Relations": {
-    
-      "India-Nepal Relations": [
-        "Background of Relation",
-        "Cooperation between India & Nepal",
-        "Contentions in relations between India & Nepal",
-        "The Issue of Water and Hydropower Cooperation",
-        "Recommendations to Improve Relations",
-        "External Influences"
-      ],
-      "India-Bhutan Relations": [
-        "Economy: A Broad Overview",
-        "India, Bhutan and China: Issues"
-      ],
-      "Indo-Afghan Bilateral Relations": [
-        "A Long History of Bilateral Relations",
-        "The India-Afghanistan Development Partnership",
-        "Strategic factors undergirding India’s Partnership with Afghanistan",
-        "Afghanistan after NATO Withdrawal",
-        "Options for India in Afghanistan",
-        "Presence of Taliban"
-      ],
-      "India-Bangladesh Relations": [
-        "Development Partnership",
-        "India-Bangladesh Relations in line with ‘Look East’ policy",
-        "Boundary Agreements",
-        "Teesta River Dispute"
-      ],
-      "India-Maldives Relations": [
-        "Geostrategic Importance of Maldives",
-        "Development Cooperation",
-        "Security Risks"
-      ],
-      "India-Sri Lanka Relations": [
-        "Commercial Relations",
-        "Developmental Cooperation",
-        "Fishermen Issue"
-      ],
-      "India-Myanmar Relations": [
-        "Relation through ages",
-        "Recent change in policy",
-        "China's Role"
-      ],
-      "Indo-Pak Relations": [
-        "Cooperation between India & Pakistan",
-        "Major Crisis",
-        "Water Dispute",
-        "Issue of Terrorism and Proxy Wars"
-      ],
-    
-    "India–Russia Relations": [
-      "Cooperation between India and Russia",
-      "Strategic Cooperation",
-      "Major Concerns",
-      "Russia–China Impact on India"
+  "India and Neighbourhood": {
+    "India-Nepal Relations": [
+      "Background of Relation",
+      "Cooperation between India & Nepal",
+      "Contentions in relations between India & Nepal",
+      "The Issue of Water and Hydropower Cooperation",
+      "Recommendations to Improve Relations",
+      "External Influences"
+    ],
+    "India-Bhutan Relations": [
+      "Economy: A Broad Overview",
+      "India, Bhutan and China: Issues"
+    ],
+    "Indo-Afghan Bilateral Relations": [
+      "A Long History of Bilateral Relations",
+      "The India-Afghanistan Development Partnership",
+      "Strategic factors undergirding India’s Partnership with Afghanistan",
+      "Afghanistan after NATO Withdrawal",
+      "Options for India in Afghanistan",
+      "Presence of Taliban"
+    ],
+    "India-Bangladesh Relations": [
+      "Development Partnership",
+      "India-Bangladesh Relations in line with ‘Look East’ policy",
+      "Boundary Agreements",
+      "Teesta River Dispute"
+    ],
+    "India-Maldives Relations": [
+      "Geostrategic Importance of Maldives",
+      "Development Cooperation",
+      "Security Risks"
+    ],
+    "India-Sri Lanka Relations": [
+      "Commercial Relations",
+      "Developmental Cooperation",
+      "Fishermen Issue"
+    ],
+    "India-Myanmar Relations": [
+      "Relation through ages",
+      "Recent change in policy",
+      "China's Role"
+    ],
+    "Indo-Pak Relations": [
+      "Cooperation between India & Pakistan",
+      "Major Crisis",
+      "Water Dispute",
+      "Issue of Terrorism and Proxy Wars"
     ],
     "Indo–China Relations": [
       "Economic Relations",
@@ -146,6 +126,24 @@
       "Environmental Security",
       "Declaration of Indian Ocean as Zone of Peace",
       "India and Asian Nations relations"
+    ]
+  },
+  "Other Bilateral Relations": {
+    "Indo-US Relations":[
+      "Strategic Perspective",
+      "Economic Perspective",
+      "Geopolitical Perspective",
+      "Defense and Security Perspective",
+      "Diplomatic and Multilateral Perspective",
+      "Social and Cultural Perspective",
+      "Challenges and Divergences",
+      "Conclusion"
+    ],
+    "India–Russia Relations": [
+      "Cooperation between India and Russia",
+      "Strategic Cooperation",
+      "Major Concerns",
+      "Russia–China Impact on India"
     ],
     "India & Asian Nations relations": [
       "CIS Countries of Central Asia",
@@ -189,9 +187,7 @@
       "Economy Centric Relationship",
       "Contemporary Perspective"
     ],
-    "India–South Korea Relations": [
-      "Economic Partnership in Recent Years"
-    ],
+    "India–South Korea Relations": ["Economic Partnership in Recent Years"],
     "India–Vietnam Relations": [
       "Economic Cooperation",
       "Strategic Cooperation",
@@ -216,9 +212,7 @@
       "WTO and Agriculture Issues of developing nations",
       "WTO and Free Trade Agreements (FTAs)"
     ],
-    "International Monetary Fund (IMF)": [
-      "IMF Reforms"
-    ],
+    "International Monetary Fund (IMF)": ["IMF Reforms"],
     "Nuclear Security": [
       "Nuclear Security Summit",
       "Threats of Nuclear Terrorism",
@@ -276,18 +270,11 @@
       "World Meteorological Organisation (WMO)",
       "WIPO"
     ],
-    "World Bank": [
-						"World Bank"
-				],
-    "International Monetary Fund (IMF)": [
-      "IMF and Global Economy"
-    ]
+    "World Bank": ["World Bank"],
+    "International Monetary Fund (IMF)": ["IMF and Global Economy"]
   },
   "Important Key Concepts": {
-    "New World Order": [
-      "Dynamics of New World Order",
-      "New Cold War?"
-    ],
+    "New World Order": ["Dynamics of New World Order", "New Cold War?"],
     "Global Issues": [
       "World Migration Report",
       "United Nations Global Supply Chain Forum",
