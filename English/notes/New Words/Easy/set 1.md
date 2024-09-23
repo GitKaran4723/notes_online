@@ -1,4 +1,4 @@
-## Apprehended
+## 1. Apprehended
 
 The term **"apprehended"** has a few related meanings, primarily focusing on the idea of capture or understanding:
 
@@ -14,7 +14,7 @@ The term **"apprehended"** has a few related meanings, primarily focusing on the
 
 In both senses, it refers to a form of **taking hold**—either physically or mentally.
 
-## fortnight
+## 2. fortnight
 
 A **fortnight** refers to a period of **two weeks** or **14 days**. The term comes from the Old English phrase *"feowertyne niht,"* meaning **fourteen nights**. It is commonly used in British English and some other Commonwealth countries but is less common in American English, where "two weeks" is typically used instead.
 
@@ -22,7 +22,7 @@ A **fortnight** refers to a period of **two weeks** or **14 days**. The term com
 - "The project will be completed in a **fortnight**," meaning the project will be finished in 14 days.
 
 
-## stench 
+## 3. stench 
 The word **"stench"** refers to a strong, unpleasant, and typically offensive smell. It is often used to describe odors that are particularly foul or noxious, such as the smell of decay, waste, or rotting matter.
 
 ### Example:
@@ -37,5 +37,6 @@ The word **"stench"** refers to a strong, unpleasant, and typically offensive sm
 
 While "stench" always conveys a negative connotation, its synonyms like "odor" or "smell" can be neutral depending on the context.
 
+## 4. 
 
 
