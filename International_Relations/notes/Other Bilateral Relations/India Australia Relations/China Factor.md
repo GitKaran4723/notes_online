@@ -1,0 +1,9 @@
+**China Factor in India-Australia Relations**
+
+The China factor plays a pivotal role in shaping the strategic and defence relations between India and Australia. Both countries have experienced growing tensions with China, which has pushed them to deepen their cooperation, particularly in the Indo-Pacific region.
+
+Australia’s relations with China began to deteriorate after it took a strong stance on several issues, including banning Chinese telecom giant **Huawei** from its 5G network, calling for an investigation into the origins of COVID-19, and criticizing China’s human rights abuses in **Xinjiang** and **Hong Kong**. In retaliation, China imposed trade restrictions on Australian exports, straining economic ties. This diplomatic fallout led Australia to seek closer strategic partnerships with like-minded countries, including India.
+
+For India, the **China factor** is primarily driven by security concerns along its northern border. The **Galwan Valley clash** in 2020, where Indian and Chinese forces faced off, highlighted the aggressive posturing by China in the region. This, combined with China’s increasing influence in South Asia and the Indo-Pacific, has led India to strengthen its strategic partnerships, especially within the **Quad** grouping (India, Australia, US, Japan).
+
+Both India and Australia are committed to upholding a **rules-based international order** and ensuring a free and open Indo-Pacific, countering China's assertiveness and unilateral actions. The China factor thus acts as a common strategic motivator, driving the two countries towards closer cooperation on regional security and defence.
