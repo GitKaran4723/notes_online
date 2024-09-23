@@ -1,0 +1,19 @@
+{
+  "New Words": {
+    "Easy": ["set 1"],
+    "Moderate": ["set 1"],
+    "Difficult": ["set 1"]
+  },
+  "Idioms and Phrases": {
+    "Easy": ["set 1"],
+    "Moderate": ["set 1"],
+    "Difficult": ["set 1"]
+  },
+  "Famous Quotes": {
+    "Inspirational Quotes": ["set 1"],
+    "Thought-Provoking Quotes": ["set 1"],
+    "Supporting Quotes" : ["set 1"],
+    "Contrasting Quotes" : ["set 1"],
+    "Humorous Quotes" : ["set 1"]
+  }
+}
