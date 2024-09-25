@@ -36,7 +36,10 @@
       "Neighbourhood First Policy",
       "Gujral Doctrine"
     ],
-    "Look East Policy": ["Act East Policy"],
+    "Look East Policy": [
+      "Recent news",
+      "Act East Policy"
+    ],
     "Look West Policy": ["Act West Policy"]
   },
   "Indian Diaspora": {
