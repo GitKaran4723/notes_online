@@ -86,8 +86,44 @@ Picture the word **"gutted"** like having the inside of something removed or des
 
 
 
-## 8. 
-## 9. 
-## 10. 
+## 8. stooped
+"Stooped" refers to a posture where a person is bent forward, usually from the shoulders, often due to age, fatigue, or habit. It can also describe someone who is hunched over, either physically or metaphorically, as in a position of submission or exhaustion.
+
+For example:
+- **Physical posture**: An elderly person may walk with a stooped back.
+- **Metaphorical use**: Someone may be "stooped" under the weight of their responsibilities.
+
+In simpler terms, it means bending forward or slouching.
+
+
+## 9. surge pricing
+
+**Surge pricing** is a pricing strategy used by businesses where the cost of a service or product increases when demand is higher than supply. It is often used by companies like ride-sharing services (e.g., Uber) or airlines.
+
+### How It Works:
+- When demand increases (e.g., during rush hours, bad weather, or special events), prices rise to encourage more suppliers (drivers, sellers) to participate or to balance out the increased demand.
+- Once the demand normalizes or decreases, the prices return to their usual levels.
+
+### Example:
+In ride-sharing, if many people are requesting rides during a concert or a storm, but there aren't enough drivers, the price will "surge" to match the high demand.
+
+### Benefits:
+- It helps balance supply and demand quickly.
+- It incentivizes more service providers (like drivers) to work during peak times.
+
+### Criticisms:
+- Consumers may find it unfair or too expensive during times of necessity.
+  
+In simple terms, surge pricing means prices go up when more people need the service at the same time, and they go back down when fewer people need it.
+
+## 10. Vindictive
+
+"Vindictive" refers to having or showing a strong desire for revenge. A vindictive person seeks to retaliate or get back at someone who has wronged them, often in a way that is overly harsh or spiteful.
+
+### Example:
+- If someone holds a grudge and tries to harm the person who offended them, they are being vindictive.
+- A boss who purposely makes an employee's work life difficult because of a past disagreement is acting vindictively.
+
+In simpler terms, being vindictive means wanting to hurt someone because they hurt you first.
 
 

@@ -1,6 +1,9 @@
 {
   "New Words": {
-    "Easy": ["set 1"],
+    "Easy": [
+      "set 1",
+      "set 2"
+    ],
     "Moderate": ["set 1"],
     "Difficult": ["set 1"]
   },
