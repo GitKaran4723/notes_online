@@ -288,7 +288,12 @@
       "WTO and Agriculture Issues of developing nations",
       "WTO and Free Trade Agreements (FTAs)"
     ],
-    "International Monetary Fund (IMF)": ["IMF Reforms"],
+    "International Monetary Fund (IMF)": [
+      "Origins and Structure of the International Monetary Fund (IMF)",
+      "Functions and Key Roles of the IMF",
+      "IMF's Programs, Lending, and Impact on Global Economy",
+      "India’s Relationship with the IMF"
+    ],
     "Nuclear Security": [
       "Nuclear Security Summit",
       "Threats of Nuclear Terrorism",
@@ -302,15 +307,21 @@
       "BRICS-BIMSTEC",
       "BRICS & India"
     ],
-    "BIMSTEC": [
-      "BIMSTEC & India",
-      "Convention on Mutual Legal Assistance in Criminal Matters"
-    ],
     "SCO":[
       "Origins and Structure of SCO",
       "Key Areas of Cooperation in SCO",
       "India’s Role and Strategic Interests in SCO"
     ],
+    "Commonwealth":[
+      "Origins and Structure of the Commonwealth",
+      "Key Areas of Cooperation in the Commonwealth",
+      "India’s Role and Strategic Interests in the Commonwealth"
+    ],
+    "BIMSTEC": [
+      "BIMSTEC & India",
+      "Convention on Mutual Legal Assistance in Criminal Matters"
+    ],
+    
     "IBSA": [
       "IBSA Potential",
       "Need for Revitalizing IBSA",
@@ -351,8 +362,8 @@
       "World Meteorological Organisation (WMO)",
       "WIPO"
     ],
-    "World Bank": ["World Bank"],
-    "International Monetary Fund (IMF)": ["IMF and Global Economy"]
+    "World Bank": ["World Bank"]
+    
   },
   "Important Key Concepts": {
     "New World Order": ["Dynamics of New World Order", "New Cold War?"],
