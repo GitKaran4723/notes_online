@@ -1,27 +1,34 @@
-# List of file names
+import os
+
 file_names = [
-      "Introduction to WTO",
-      "Objectives of WTO",
-      "Structure of WTO",
-      "Principles of WTO",
-      "Agreements under WTO",
-      "WTO Dispute Settlement Mechanism",
-      "WTO and Developing Countries",
-      "Doha Development Round",
-      "Recent Developments in WTO",
-      "Criticism of WTO",
-      "India and WTO",
-      "Future of WTO"
-    ]
+    "Introduction to G20",
+    "Objectives of G20",
+    "Structure of G20",
+    "Functions and Role of G20",
+    "Summits and Key Outcomes",
+    "G20’s Role in Global Economic Governance",
+    "G20 and Developing Countries",
+    "G20 and Climate Change",
+    "G20 and Global Health",
+    "G20 and Digital Economy",
+    "G20 and Trade",
+    "G20 and Global Taxation",
+    "Criticism and Challenges Facing G20",
+    "India’s Role in the G20",
+    "Future of the G20"
+]
+
+# Define the folder path using a raw string to avoid escaping issues
+folder = r"C:\Users\KARAN JADHAV\Desktop\UPSC_notes\International_Relations\notes\Multilateral Relations\G20"
 
 # Loop through each name and create a file with the .md extension
 for name in file_names:
-    # File name with spaces and .md extension
-    file_name = f"{name}.md"
+    # Join the folder path and file name with .md extension
+    file_name = os.path.join(folder, f"{name}.md")
     
     # Create and open the file in write mode
     with open(file_name, 'w') as file:
-        # You can optionally write something in the file here
+        # Write the title in markdown format
         file.write(f"# {name}\n\n")
 
 print("Files created successfully.")
