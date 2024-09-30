@@ -314,6 +314,13 @@
       "IMF's Programs, Lending, and Impact on Global Economy",
       "India’s Relationship with the IMF"
     ],
+    "G7":[
+      "Introduction to G7",
+      "Objectives and Role of G7",
+      "Structure and Functioning of G7",
+      "Key Issues and Focus Areas of G7",
+      "Criticism and Challenges Facing the G7"
+    ],
     "Nuclear Security": [
       "Nuclear Security Summit",
       "Threats of Nuclear Terrorism",
@@ -361,6 +368,13 @@
     ]
   },
   "Global Institutions": {
+    "World Bank": [
+      "Introduction to the World Bank",
+      "Structure and Organization of the World Bank",
+      "Functions and Role of the World Bank",
+      "World Bank's Projects and Initiatives",
+      "Criticism and Challenges Facing the World Bank"
+    ],
     "United Nations and its Bodies": [
       "Structure of United Nations",
       "United Nations General Assembly (UNGA)",
@@ -381,8 +395,7 @@
       "World Health Organization (WHO)",
       "World Meteorological Organisation (WMO)",
       "WIPO"
-    ],
-    "World Bank": ["World Bank"]
+    ]
     
   },
   "Important Key Concepts": {
