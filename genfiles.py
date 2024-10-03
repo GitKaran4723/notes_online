@@ -1,15 +1,15 @@
 import os
 
 file_names = [
-    "Border Disputes and the Line of Actual Control (LAC)",
-    "Economic and Trade Relations",
-    "Geopolitical Rivalry in South Asia and Indo-Pacific",
-    "China’s Belt and Road Initiative (BRI) and India's Response",
-    "Military and Strategic Cooperation and Competition"
+    "Objectives and Structure of BIMSTEC",
+    "BIMSTEC and Regional Connectivity Initiatives",
+    "BIMSTEC's Role in Trade and Economic Cooperation",
+    "BIMSTEC and Regional Security Cooperation",
+    "BIMSTEC's Approach to Climate Change and Disaster Management"
 ]
 
 # Define the folder path using a raw string to avoid escaping issues
-folder = r"C:\Users\KARAN JADHAV\Desktop\UPSC_notes\International_Relations\notes\India and Neighbourhood\Indo–China Relations"
+folder = r"C:\Users\KARAN JADHAV\Desktop\UPSC_notes\International_Relations\notes\Multilateral Relations\BIMSTEC"
 # Loop through each name and create a file with the .md extension
 for name in file_names:
     # Join the folder path and file name with .md extension

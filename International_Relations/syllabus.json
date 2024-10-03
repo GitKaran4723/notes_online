@@ -37,10 +37,7 @@
       "Neighbourhood First Policy",
       "Gujral Doctrine"
     ],
-    "Look East Policy": [
-      "Recent news",
-      "Act East Policy"
-    ],
+    "Look East Policy": ["Recent news", "Act East Policy"],
     "Look West Policy": ["Act West Policy"]
   },
   "Indian Diaspora": {
@@ -79,7 +76,7 @@
       "Geopolitical Rivalry in South Asia and Indo-Pacific",
       "China’s Belt and Road Initiative (BRI) and India's Response",
       "Military and Strategic Cooperation and Competition"
-  ],
+    ],
 
     "India-Bangladesh Relations": [
       "Historical and Cultural Ties",
@@ -136,7 +133,7 @@
     ]
   },
   "Other Bilateral Relations": {
-    "Indo-US Relations":[
+    "Indo-US Relations": [
       "Strategic Perspective",
       "Economic Perspective",
       "Geopolitical Perspective",
@@ -146,7 +143,7 @@
       "Challenges and Divergences",
       "Conclusion"
     ],
-    "India-UK Relations":[
+    "India-UK Relations": [
       "Bilateral Relations",
       "Political Relations",
       "Economic Relations",
@@ -157,7 +154,7 @@
       "Defense Relations",
       "Indian Diaspora in the United Kingdom"
     ],
-    "India France relations":[
+    "India France relations": [
       "Defence and Security Cooperation",
       "Indo-Pacific Partnership",
       "Economic Development and Trade",
@@ -171,7 +168,7 @@
       "Connectivity Initiatives (India-Middle East-Europe Corridor)",
       "Intellectual Property Rights and Trade Barriers"
     ],
-    "India Australia Relations":[
+    "India Australia Relations": [
       "Historical Perspective",
       "Shared Values",
       "People-to-People Ties",
@@ -220,7 +217,7 @@
       "Iran Nuclear Deal and India",
       "US-Geopolitical and Geo-Economic Consideration in Iran"
     ],
-    
+
     "India–Saudi Arabia Relations": [
       "Areas of Cooperation",
       "Challenges in relations"
@@ -251,23 +248,14 @@
     ]
   },
   "India and Regional Relations": {
-    "India and central Asia":[
-      "India and central Asia"
-    ],
-    "India and South East Asia":[
+    "India and central Asia": ["India and central Asia"],
+    "India and South East Asia": [
       "India and South East Asia",
       "why east timur is not the part of ASEAN"
     ],
-    "India and Middle East":[
-      "India and Middle East"
-    ],
-    "India and Africa":[
-      "India-Africa Relations - An Overview"
-    ],
-    "India and Latin America":[
-      "India and Latin America"
-    ]
-    
+    "India and Middle East": ["India and Middle East"],
+    "India and Africa": ["India-Africa Relations - An Overview"],
+    "India and Latin America": ["India and Latin America"]
   },
   "Multilateral Relations": {
     "WTO": [
@@ -307,7 +295,7 @@
       "IMF's Programs, Lending, and Impact on Global Economy",
       "India’s Relationship with the IMF"
     ],
-    "G7":[
+    "G7": [
       "Introduction to G7",
       "Objectives and Role of G7",
       "Structure and Functioning of G7",
@@ -327,31 +315,41 @@
       "BRICS-BIMSTEC",
       "BRICS & India"
     ],
-    "SCO":[
+    "SCO": [
       "Origins and Structure of SCO",
       "Key Areas of Cooperation in SCO",
       "India’s Role and Strategic Interests in SCO"
     ],
-    "Commonwealth":[
+    "Commonwealth": [
       "Origins and Structure of the Commonwealth",
       "Key Areas of Cooperation in the Commonwealth",
       "India’s Role and Strategic Interests in the Commonwealth"
     ],
-    "BIMSTEC": [
-      "BIMSTEC & India",
-      "Convention on Mutual Legal Assistance in Criminal Matters"
+    "SAARC": [
+      "Objectives and Functions of SAARC",
+      "SAARC and Regional Integration Challenges",
+      "Economic and Trade Relations within SAARC",
+      "SAARC's Role in Addressing Security and Humanitarian Issues",
+      "India's Role and Challenges within SAARC"
     ],
-    
+    "BIMSTEC": [
+      "Objectives and Structure of BIMSTEC",
+      "BIMSTEC and Regional Connectivity Initiatives",
+      "BIMSTEC's Role in Trade and Economic Cooperation",
+      "BIMSTEC and Regional Security Cooperation",
+      "BIMSTEC's Approach to Climate Change and Disaster Management"
+  ] ,
+    "GCC":[
+
+    ],
+    "NATO":[
+
+    ],
     "IBSA": [
       "IBSA Potential",
       "Need for Revitalizing IBSA",
       "India’s Policy Options",
       "Technological Collaboration"
-    ],
-    "SAARC": [
-      "Prospects For SAARC",
-      "Indo-Pak Conflict",
-      "Problem of Resource Development"
     ],
     "India–ASEAN Economic Cooperation": [
       "Singapore",
@@ -389,7 +387,6 @@
       "World Meteorological Organisation (WMO)",
       "WIPO"
     ]
-    
   },
   "Important Key Concepts": {
     "New World Order": ["Dynamics of New World Order", "New Cold War?"],
