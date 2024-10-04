@@ -7,6 +7,8 @@ The **North Atlantic Treaty Organization (NATO)**, formed in 1949 with the signi
 
 NATO currently has **31 member countries** across North America and Europe, with several partners across the globe.
 
+![NATO_Nations](https://lh3.googleusercontent.com/d/1u2lUgTgmjHlnBL5XPPlng8nWZPUWo80H)
+
 #### **Objectives of NATO**
 
 1. **Collective Defense**:
