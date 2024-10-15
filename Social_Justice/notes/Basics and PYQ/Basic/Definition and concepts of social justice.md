@@ -1,4 +1,4 @@
-### 1. Definition of Social Justice
+### Definition of Social Justice
 
 **Social Justice** is a concept rooted in the idea that everyone deserves equal rights and opportunities — encompassing the relationship between the individual and society. It focuses on the rights of individuals for equal access to wealth, opportunities, and privileges within a society.
 

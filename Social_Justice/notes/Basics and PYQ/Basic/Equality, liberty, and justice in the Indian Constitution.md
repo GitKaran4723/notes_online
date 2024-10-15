@@ -1,6 +1,4 @@
-Let's move on to the fifth topic: "Equality, Liberty, and Justice in the Indian Constitution."
-
-### 5. Equality, Liberty, and Justice in the Indian Constitution
+### Equality, Liberty, and Justice in the Indian Constitution
 
 The Indian Constitution is built on the foundational values of **equality**, **liberty**, and **justice**, which are enshrined in the **Preamble** and given concrete expression through the Fundamental Rights and Directive Principles. These three pillars aim to create a society where individuals are not only free and equal but also treated fairly under the law, and where social, economic, and political justice is ensured for all citizens.
 
