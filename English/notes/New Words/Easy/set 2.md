@@ -155,5 +155,16 @@ Picture a **wound** that's already painful, and someone rubs **salt** into it, m
 ### Mind Palace Technique to Remember:
 Imagine a tree **spreading its branches** and growing leaves rapidly. In your mind, visualize the branches symbolizing different areas where proliferation can occur (like technology, weapons, or ideas). Each branch grows quickly, representing the rapid increase or spread. This image can help you connect the term "proliferation" with the concept of rapid growth or expansion.
 
-## 9. 
+## 9. propriety 
+
+**"propriety"** refers to the state of conforming to accepted standards of behavior, morals, or etiquette. It relates to acting in a way that is socially or morally correct, appropriate, or fitting for a particular situation.
+
+In simpler terms, **propriety** means following the right or proper conduct according to what society deems acceptable.
+
+### Example:
+- A person might behave with **propriety** at a formal event by dressing appropriately, speaking politely, and following the expected social rules.
+
+### Mind Palace Technique to Remember:
+You can think of **propriety** as a **"proper tea"** party—where everything needs to be done with the correct manners and behavior. This image of being formal and following rules helps to remember that propriety means doing things properly or correctly according to accepted standards.
+
 ## 10. 
