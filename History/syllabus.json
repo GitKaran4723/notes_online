@@ -1,6 +1,8 @@
 {
-    "NCERT":{
-        "Class 6":[
+    "Ancient History":{
+        "India's Ancient Past":[],
+        "NCERT Class 11":[],
+        "NCERT Class 6":[
             "WHAT, WHERE, HOW AND WHEN",
             "ON THE TRAIL OF THE EARLIEST PEOPLE",
             "FROM GATHERING TO GROWING FOOD",
@@ -13,10 +15,31 @@
             "TRADERS, KINGS AND PILGRIMS",
             "NEW EMPIRES AND KINGDOMS",
             "BUILDINGS, PAINTINGS AND BOOKS"
+        ],
+        "NCERT Class 7":[],
+        "NCERT Class 8":[]
+    },
+    "Medieval History":{
+        "History of Medieval India":[],
+        "NCERT Class 11 - Themes in Indian History, Part II":[]
+    },
+    "Modern History":{
+        "India's Struggle for Independence":[],
+        "A Brief History of Modern India":[],
+        "NCERT Class 12 - Themes in Indian History, Part III":[]
+    },
+    "World History":{
+        "Mastering Modern World History - Norman Lowe":[],
+        "NCERT Class 9 and 10 Social Science Books":[]
+    },
+    "Post-Independence India (For Mains Paper II)":{
+        "India After Gandhi - Ramachandra Guha":[],
+        "Politics in India Since Independence - NCERT":[]
+    },
+    "Art and Culture":{
+        "Indian Art and Culture - Nitin Singhania":[],
+        "NCERT Class 11-An Introduction to Indian Art":[],
+        "NCERT Class 12-Themes in Indian History, Part I and II":[],
 
-
-
-
-        ]
     }
 }
